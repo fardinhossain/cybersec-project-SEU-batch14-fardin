@@ -31,7 +31,7 @@ The main objective of this project was to identify security vulnerabilities usin
 - Metasploitable 2
 
 ### Network Setup
-- Host-Only Network
+- NAT Network
 
 ### Tools Used
 - Nessus Essentials
